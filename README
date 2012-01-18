@@ -1,0 +1,7 @@
+Simple program to generate and display a matrix with a cave-like structure.
+Could be used for 2d game maps or heightmaps.
+Based on: http://pixelenvy.ca/wa/ca_cave.html
+
+TODO:
+Separate rendering from model.
+Re-implement in JS
